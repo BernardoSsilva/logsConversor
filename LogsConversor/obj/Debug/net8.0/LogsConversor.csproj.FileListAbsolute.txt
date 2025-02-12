@@ -1,0 +1,14 @@
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.AssemblyInfoInputs.cache
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.AssemblyInfo.cs
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\bin\Debug\net8.0\LogsConversor.exe
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\bin\Debug\net8.0\LogsConversor.deps.json
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\bin\Debug\net8.0\LogsConversor.runtimeconfig.json
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\bin\Debug\net8.0\LogsConversor.dll
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\bin\Debug\net8.0\LogsConversor.pdb
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.dll
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\refint\LogsConversor.dll
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.pdb
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\LogsConversor.genruntimeconfig.cache
+C:\Users\bernardo.silva\Documents\LogsConversor\LogsConversor\LogsConversor\obj\Debug\net8.0\ref\LogsConversor.dll

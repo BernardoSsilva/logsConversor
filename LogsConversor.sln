@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsConversor", "LogsConversor\LogsConversor.csproj", "{B8B52749-562A-484D-A22D-45A2ED0BE42D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA2702F-7DA1-4D9B-A17E-8E2E1C4C55A1}
+	EndGlobalSection
+EndGlobal
