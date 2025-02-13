@@ -13,6 +13,12 @@ namespace LogsConversor.classes
             {
 
                 string[] data = logLines[i].Split("|");
+
+                if(data.Length != 5) {
+                    Console.WriteLine("Invalid Line");
+                     continue;
+                }
+
                 string responseSize = data[0];
                 string statusCode = data[1];
                 string cacheStatus = data[2];
@@ -21,7 +27,7 @@ namespace LogsConversor.classes
                 string method = uriData[0].Trim('\"');
 
 
-                string path = "/" + uriData[1];
+                string path = "/" + uriData[1].Trim('\"');
 
                 string timeTaken = data[4].Trim();
 

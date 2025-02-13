@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsConversor", "LogsConversor\LogsConversor.csproj", "{B8B52749-562A-484D-A22D-45A2ED0BE42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor.tests", "Conversor.tests\Conversor.tests.csproj", "{1FB2318A-B1C4-4E28-9B86-4028D85CEAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B52749-562A-484D-A22D-45A2ED0BE42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB2318A-B1C4-4E28-9B86-4028D85CEAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB2318A-B1C4-4E28-9B86-4028D85CEAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB2318A-B1C4-4E28-9B86-4028D85CEAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB2318A-B1C4-4E28-9B86-4028D85CEAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
