@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bernardo.silva\\Documents\\LogsConversor\\LogsConversor\\LogsConversor\\LogsConversor.csproj",
+      "projectUniqueName": "C:\\Users\\bernardo.silva\\Documents\\logsConversor\\LogsConversor\\LogsConversor.csproj",
       "projectName": "LogsConversor",
-      "projectPath": "C:\\Users\\bernardo.silva\\Documents\\LogsConversor\\LogsConversor\\LogsConversor\\LogsConversor.csproj",
+      "projectPath": "C:\\Users\\bernardo.silva\\Documents\\logsConversor\\LogsConversor\\LogsConversor.csproj",
       "packagesPath": "C:\\Users\\bernardo.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bernardo.silva\\Documents\\LogsConversor\\LogsConversor\\LogsConversor\\obj\\",
+      "outputPath": "C:\\Users\\bernardo.silva\\Documents\\logsConversor\\LogsConversor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

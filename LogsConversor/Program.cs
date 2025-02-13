@@ -4,8 +4,9 @@ class Program
 {
 
 
-    static void Main(string[] args) {
-        Console.WriteLine("Insert txt file path");
+    static void Main(string[] args)
+    {
+        Console.Write("Insert old logs file path: ");
         string filePath = Console.ReadLine();
 
         if (!File.Exists($@"{filePath}\logs.txt"))
@@ -20,7 +21,7 @@ class Program
 
         List<string> convertedLines = conversorInstance.convertLogs(fileLines);
 
-        Console.WriteLine("Insert path to save the parsed log file");
+        Console.Write("Insert path to save the new formated logs file:");
         string pathToSave = Console.ReadLine();
 
         conversorInstance.createFile(pathToSave, convertedLines);
